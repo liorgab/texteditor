@@ -1,0 +1,12 @@
+.headerIcons{
+    display:flex;
+    justify-content: center;
+    margin:10px;
+    padding: 10px;
+    
+}
+
+.iconBtn {
+    padding: 3px;
+    margin:2px 8px
+}
